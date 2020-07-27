@@ -1,8 +1,17 @@
 ### Hi there 👋
 
+I am a Data Scientist/ ML Engineer holding a Master's degree in Data Science from University of Southern California, Los Angeles.  
+I love building smart data-driven systems, with my skills in Software Development, Big Data and Machine Learning. I have a knack for problem solving and enjoy coding to realize my ideas. 
+
+- 🔭 I’m currently looking out for Full-time roles in Machine Learning/ Data science/ Data Engineering.
+- 👯 I’m looking to collaborate on: Open source projects, some of my ideas are listed [here](https://github.com/tanaysh7?tab=projects).
+- 📫 How to reach me: Contact details can be found [here](https://tanay.page.link/me).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can solve the rubik's cube thrice in a single breath. PS. I'm relatively slow at solving it, but I swim.
+
 ![](https://komarev.com/ghpvc/?username=tanaysh7&style=flat-square)
 <!--
-**tanaysh7/tanaysh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**
 
 Here are some ideas to get you started:
 
