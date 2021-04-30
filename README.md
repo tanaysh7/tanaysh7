@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Software/Data Engineer holding a Master's degree in Data Science from University of Southern California, Los Angeles.  
-I love building smart data-driven distributed systems, with my skills in Machine Learning, Software Development and Big Data. I have a knack for problem solving and enjoy coding to realize my ideas. 
+I love building smart data-driven distributed systems, with my skills in Software Development, Machine Learning and Big Data. I have a knack for problem solving and enjoy coding to realize my ideas. 
 
 - 🔭 I’m currently working as a Software Engineer at [Google](https://www.google.com/).
 - 👯 I’m looking to collaborate on: Open source projects, some of my ideas are listed [here](https://github.com/tanaysh7?tab=projects).
